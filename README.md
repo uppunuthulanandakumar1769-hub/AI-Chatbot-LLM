@@ -27,15 +27,14 @@ The platform helps businesses optimize stock levels, monitor inventory performan
 - Scikit-learn
 
 # Project Structure
-ai-supply-chain-forecasting-platform/
-│
-├── dataset/
-├── notebooks/
-├── screenshots/
-├── app.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+ai-supply-chain-forecasting-platform
+ dataset
+ notebooks
+ screenshots
+ app.py
+ requirements.txt
+ README.md
+.gitignore
 
 # Future Improvements
 
