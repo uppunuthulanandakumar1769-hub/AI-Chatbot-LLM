@@ -14,7 +14,6 @@ The platform helps businesses optimize stock levels, monitor inventory performan
 - KPI Dashboard Visualization
 - Predictive Analytics Workflows
 - Business Intelligence Reporting
-- 
 # Technologies Used
 
 - Python
