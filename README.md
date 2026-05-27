@@ -49,3 +49,12 @@ U.NANDA KUMAR
 U. Nanda Kumar  
 M.Tech Biomedical Engineering — NIT Rourkela  
 AI/ML | Data Analytics | Healthcare AI
+
+
+---
+
+# Dashboard Preview
+# Main Dashboard
+
+![Dashboard](screenshots/screenshots%20of%20dashboard)
+
